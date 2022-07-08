@@ -1,0 +1,16 @@
+안녕하세여~
+추가된 내용이 잇습니다.
+
+
+변경하고 git status 입력하면
+ modified: 파일이름
+형식으로 뜸.
+
+
+초반 부분 듣고 순서대로 하기
+
+work directory에서 staging area로 내리는거
+git add test.txt
+
+staging area에 들어있는 파일을 실제버젼(repository)로 내린는거(commit)
+git commit
